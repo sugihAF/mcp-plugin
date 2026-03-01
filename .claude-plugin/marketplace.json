@@ -1,0 +1,10 @@
+{
+  "name": "chompchat-marketplace",
+  "description": "ChompChat plugins for Claude Code",
+  "plugins": [
+    {
+      "name": "chompchat",
+      "path": "."
+    }
+  ]
+}
