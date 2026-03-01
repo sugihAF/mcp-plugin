@@ -1,10 +1,13 @@
 {
   "name": "chompchat-marketplace",
-  "description": "ChompChat plugins for Claude Code",
+  "owner": {
+    "name": "ChompChat"
+  },
   "plugins": [
     {
       "name": "chompchat",
-      "path": "."
+      "source": ".",
+      "description": "Order food from restaurants via ChompChat AI - browse menus, customize orders, and pay with a checkout link."
     }
   ]
 }
