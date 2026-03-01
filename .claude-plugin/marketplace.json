@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "chompchat",
-      "source": ".",
+      "source": "./",
       "description": "Order food from restaurants via ChompChat AI - browse menus, customize orders, and pay with a checkout link."
     }
   ]
