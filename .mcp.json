@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "chompchat": {
-      "type": "url",
+      "type": "sse",
       "url": "https://exp.chompchat-backend.net/mcp/"
     }
   }
