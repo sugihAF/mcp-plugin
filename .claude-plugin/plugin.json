@@ -1,6 +1,5 @@
 {
   "name": "chompchat",
   "description": "Order food from restaurants via ChompChat AI - browse menus, customize orders, and pay with a checkout link.",
-  "version": "1.0.0",
-  "icon": "https://chompchat.com/favicon.ico"
+  "version": "1.0.0"
 }
